@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohciobeipa.skakacihradyjicin.cz/sitemap.xml
